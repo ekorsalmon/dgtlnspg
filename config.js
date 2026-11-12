@@ -1,5 +1,5 @@
-/* Isi 2 baris di bawah dari Supabase → Project Settings → API (atau Data API) */
+/* Isi dari Supabase → Project Settings → API Keys */
 window.DGTLN_CONFIG = {
-  url: 'ISI_PROJECT_URL',        // contoh: 'https://abcdefgh.supabase.co'
-  anonKey: 'ISI_ANON_PUBLIC_KEY' // "anon public" / "publishable" key — BUKAN service_role
+  url: 'https://jzfsnlyzzueaceimjnjb.supabase.co',
+  anonKey: 'sb_publishable_-FhPI9Z6exQTVqiZNnLr3Q_0ll_jfbw'
 };
